@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TicketsInfo>
+	<USER.TGT>
+		<Realm></Realm>
+		<Name></Name>
+		<Value></Value>
+		<Userid></Userid>
+		<BeginTime>0</BeginTime>
+		<TTL>0</TTL>
+	</USER.TGT>
+	<USER.ST>
+		<Realm></Realm>
+		<Name></Name>
+		<Value></Value>
+		<Userid></Userid>
+		<BeginTime>0</BeginTime>
+		<TTL>0</TTL>
+	</USER.ST>
+	<USERNAME></USERNAME>
+	<PASSWORD></PASSWORD>
+	<DEVICEID>9f286460ed69e1751185c0b265b7588f</DEVICEID>
+	<AUTOSIGNIN>FALSE</AUTOSIGNIN>
+	<STAYPWD>FALSE</STAYPWD>
+</TicketsInfo>
